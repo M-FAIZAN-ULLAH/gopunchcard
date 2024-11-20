@@ -438,7 +438,7 @@ const CareersPage = () => {
             to hear from you.
           </motion.p>
           <motion.a
-            href="#job-listings"
+            href="#"
             className="bg-[#4CAF50] py-3 px-6 text-xl font-bold rounded-lg transition-all duration-300 transform hover:scale-110 shadow-lg"
             whileHover={{
               scale: 1.1,

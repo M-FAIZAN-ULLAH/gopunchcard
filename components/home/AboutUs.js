@@ -177,7 +177,7 @@ const Footer = () => {
               Explore our plans and join us today.
             </p>
             <a
-              href="mailto:support@gopunchcard.com"
+              href="#"
               className="flex items-center justify-start text-lg text-[#f0f0f0] hover:text-[#0056b3] transition-all duration-300"
             >
               <FaEnvelope className="mr-2" /> Email Us
@@ -192,7 +192,7 @@ const Footer = () => {
             <ul className="space-y-3">
               <li>
                 <a
-                  href="/about"
+                  href="/"
                   className="text-lg hover:text-[#0056b3] transition-all duration-300"
                 >
                   About Us
@@ -200,7 +200,7 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="/services"
+                  href="/"
                   className="text-lg hover:text-[#0056b3] transition-all duration-300"
                 >
                   Services
@@ -208,7 +208,7 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="/careers"
+                  href="/"
                   className="text-lg hover:text-[#0056b3] transition-all duration-300"
                 >
                   Careers
@@ -216,7 +216,7 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="/contact"
+                  href="/"
                   className="text-lg hover:text-[#0056b3] transition-all duration-300"
                 >
                   Contact
@@ -247,7 +247,7 @@ const Footer = () => {
           {/* Social Media Links Section */}
           <div className="flex justify-center space-x-6">
             <a
-              href="https://facebook.com/gopunchcard"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
               className="text-3xl hover:text-[#f0f0f0] transition-all duration-300"
@@ -255,7 +255,7 @@ const Footer = () => {
               <FaFacebook />
             </a>
             <a
-              href="https://twitter.com/gopunchcard"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
               className="text-3xl hover:text-[#f0f0f0] transition-all duration-300"
@@ -263,7 +263,6 @@ const Footer = () => {
               <FaTwitter />
             </a>
             <a
-              href="https://instagram.com/gopunchcard"
               target="_blank"
               rel="noopener noreferrer"
               className="text-3xl hover:text-[#f0f0f0] transition-all duration-300"
@@ -271,7 +270,6 @@ const Footer = () => {
               <FaInstagram />
             </a>
             <a
-              href="https://linkedin.com/company/gopunchcard"
               target="_blank"
               rel="noopener noreferrer"
               className="text-3xl hover:text-[#f0f0f0] transition-all duration-300"
@@ -279,7 +277,6 @@ const Footer = () => {
               <FaLinkedin />
             </a>
             <a
-              href="https://github.com/gopunchcard"
               target="_blank"
               rel="noopener noreferrer"
               className="text-3xl hover:text-[#f0f0f0] transition-all duration-300"
