@@ -157,6 +157,7 @@ import {
   FaGithub,
   FaEnvelope,
 } from "react-icons/fa";
+import Link from "next/link";
 
 const Footer = () => {
   return (
@@ -191,36 +192,36 @@ const Footer = () => {
             </h4>
             <ul className="space-y-3">
               <li>
-                <a
+                <Link
                   href="#"
                   className="text-lg hover:text-[#0056b3] transition-all duration-300"
                 >
                   About Us
-                </a>
+                </Link>
               </li>
               <li>
-                <a
+                <Link
                   href="#"
                   className="text-lg hover:text-[#0056b3] transition-all duration-300"
                 >
                   Services
-                </a>
+                </Link>
               </li>
               <li>
-                <a
+                <Link
                   href="#"
                   className="text-lg hover:text-[#0056b3] transition-all duration-300"
                 >
                   Careers
-                </a>
+                </Link>
               </li>
               <li>
-                <a
+                <Link
                   href="#"
                   className="text-lg hover:text-[#0056b3] transition-all duration-300"
                 >
                   Contact
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
