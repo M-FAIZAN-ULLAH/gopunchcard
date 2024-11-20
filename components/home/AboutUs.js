@@ -192,7 +192,7 @@ const Footer = () => {
             <ul className="space-y-3">
               <li>
                 <a
-                  href="/"
+                  href="#"
                   className="text-lg hover:text-[#0056b3] transition-all duration-300"
                 >
                   About Us
@@ -200,7 +200,7 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="/"
+                  href="#"
                   className="text-lg hover:text-[#0056b3] transition-all duration-300"
                 >
                   Services
@@ -208,7 +208,7 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="/"
+                  href="#"
                   className="text-lg hover:text-[#0056b3] transition-all duration-300"
                 >
                   Careers
@@ -216,7 +216,7 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="/"
+                  href="#"
                   className="text-lg hover:text-[#0056b3] transition-all duration-300"
                 >
                   Contact
@@ -247,7 +247,7 @@ const Footer = () => {
           {/* Social Media Links Section */}
           <div className="flex justify-center space-x-6">
             <a
-              href=""
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               className="text-3xl hover:text-[#f0f0f0] transition-all duration-300"
@@ -255,7 +255,7 @@ const Footer = () => {
               <FaFacebook />
             </a>
             <a
-              href=""
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               className="text-3xl hover:text-[#f0f0f0] transition-all duration-300"
@@ -263,6 +263,7 @@ const Footer = () => {
               <FaTwitter />
             </a>
             <a
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               className="text-3xl hover:text-[#f0f0f0] transition-all duration-300"
@@ -270,6 +271,7 @@ const Footer = () => {
               <FaInstagram />
             </a>
             <a
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               className="text-3xl hover:text-[#f0f0f0] transition-all duration-300"
@@ -277,6 +279,7 @@ const Footer = () => {
               <FaLinkedin />
             </a>
             <a
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               className="text-3xl hover:text-[#f0f0f0] transition-all duration-300"
